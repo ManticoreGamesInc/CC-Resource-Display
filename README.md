@@ -1,31 +1,34 @@
 <div align="center">
 
-# CC-Template-Repository
+# Resource Display
 
-A ... component that does x.
+[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Resource-Display/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Resource-Display/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Resource-Display?style=plastic)
 
-[![Build Status](https://github.com/Core-Team-META/CC-Template-Repository/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Template-Repository/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Template-Repository?style=plastic)
-
-![TitleCard](/Screenshots/REPLACE_ME.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
-Description
+The Resource Display component helps with show resources to the player in the UI so they can see how much of a resource they have. This component uses a data table of resources so any resource can be displayed along with an easy way to reorder the resources.
 
-## Setup
+## How to use
 
-Setup
+Drag the Resource Display template into the hierarchy.
 
-## Credits
+To add resources, there is a data table called Resource Display that has 2 columns. ResourceKey column is the name of the resource, and the Icon column is the icon to display for this resource in the UI.
 
-- List
-- of
-- people
+On the root of the Resource Display template, there are 2 custom properties.
 
-## How to use this Template
+- **ShowAmount**
 
-- Replace every mention of `CC-Template-Repository` with your new repository name.
-- Replace every mention of `REPLACE_ME` with the correct values.
+	If enabled, the resource amount will be shown in the UI for each resource.
+
+- **Spacing**
+
+	The spacing between each resource item in the UI.
