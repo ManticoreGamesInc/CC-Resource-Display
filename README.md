@@ -2,8 +2,8 @@
 
 # Resource Display
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Resource-Display/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Resource-Display/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Resource-Display?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Resource-Display/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Resource-Display/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Resource-Display?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 
