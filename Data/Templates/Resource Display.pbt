@@ -324,6 +324,7 @@ Assets {
       AssetId: "None"
     }
   }
-  SerializationVersion: 118
+  SerializationVersion: 119
+  DirectlyPublished: true
   VirtualFolderPath: "Resource Display"
 }

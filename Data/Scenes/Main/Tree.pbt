@@ -15,6 +15,7 @@ Objects {
     }
   }
   ChildIds: 14019009751034880511
+  ChildIds: 4537100851491853854
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32,6 +33,32 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 4537100851491853854
+  Name: "Resource Display"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 17228875904029598019
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Resource Display"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4128932851383012624
+    }
+  }
 }
 Objects {
   Id: 14019009751034880511

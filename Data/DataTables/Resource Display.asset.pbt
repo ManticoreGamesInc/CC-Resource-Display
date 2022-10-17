@@ -2,7 +2,7 @@ Assets {
   Id: 14930612623701435499
   Name: "Resource Display"
   PlatformAssetType: 31
-  SerializationVersion: 118
+  SerializationVersion: 119
   VirtualFolderPath: "Resource Display"
   DataTableAsset {
     Assets {
