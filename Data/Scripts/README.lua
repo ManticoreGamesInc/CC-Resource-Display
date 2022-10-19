@@ -1,20 +1,25 @@
 --[[
-  _____                                      _____  _           _             
- |  __ \                                    |  __ \(_)         | |            
- | |__) |___  ___  ___  _   _ _ __ ___ ___  | |  | |_ ___ _ __ | | __ _ _   _ 
+  _____                                      _____  _           _
+ |  __ \                                    |  __ \(_)         | |
+ | |__) |___  ___  ___  _   _ _ __ ___ ___  | |  | |_ ___ _ __ | | __ _ _   _
  |  _  // _ \/ __|/ _ \| | | | '__/ __/ _ \ | |  | | / __| '_ \| |/ _` | | | |
  | | \ \  __/\__ \ (_) | |_| | | | (_|  __/ | |__| | \__ \ |_) | | (_| | |_| |
  |_|  \_\___||___/\___/ \__,_|_|  \___\___| |_____/|_|___/ .__/|_|\__,_|\__, |
                                                          | |             __/ |
-                                                         |_|            |___/ 
+                                                         |_|            |___/
 ------------------------------------------------------------------------------
 
 The Resource Display component helps with show resources to the player in the UI so they can see how much of
-a resource they have. This component uses a data table of resources so any resource can be displayed along 
+a resource they have. This component uses a data table of resources so any resource can be displayed along
 with an easy way to reorder the resources.
 
 -----------------------------------------------------------------------------------------------------------------
 
+====
+NOTE
+====
+
+If the Dependent folders are empty in Project Content under Imported Content for this component, save and reload the project to fix it.
 ==========
 How to use
 ==========
